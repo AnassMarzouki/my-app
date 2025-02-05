@@ -1,0 +1,227 @@
+@import "node_modules/ol/ol.css";
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#map {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+.left-side-panel {
+  position: absolute;
+  display: flex;
+  gap: 0.5em;
+  flex-direction: column;
+}
+
+#legend-container {
+  position: relative;
+  left: 1rem;
+  width: 280px;
+  min-height: 6.25rem;
+  padding: 1rem;
+  background-color: var(--secondary-color);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  box-shadow: var(--shadow);
+  transition: all 0.2s ease;
+  z-index: 1000;
+  max-height: 18.75rem;
+  overflow: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary-color) var(--secondary-color);
+  box-sizing: border-box;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: max-content;
+  min-width: 100%;
+  margin-bottom: 0.5em;
+}
+
+.color-box {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  border: 1px solid var(--border-color);
+}
+
+#legend-container span {
+  white-space: nowrap;
+  display: inline-block;
+}
+
+#legend-container:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Custom scrollbar styling */
+#legend-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+#legend-container::-webkit-scrollbar-track {
+  background: var(--secondary-color);
+  border-radius: 0 1rem 1rem 0;
+}
+
+#legend-container::-webkit-scrollbar-thumb {
+  background-color: var(--primary-color);
+  border-radius: 3px;
+}
+
+
+.legend-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.color-box {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+}
+
+
+#popup {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  background-color: white;
+  border: 1px solid rgb(117, 117, 117);
+  border-radius: 10px;
+  display: inline-block;
+  white-space: nowrap;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  opacity: 90%;
+}
+
+#popup > button {
+  font-weight: bold;
+  color: red;
+  position: absolute;
+  right: 0.5em;
+}
+
+:root {
+  --primary-color: #7d2ae8;
+  --secondary-color: #f0f4f8;
+  --border-color: #d1d5db;
+  --text-color: #2d3748;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#query-side {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 6rem 0 0 1rem;
+  width: 240px;
+  min-height: 180px;
+  background-color: var(--secondary-color);
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease;
+}
+
+#query-side:hover {
+  transform: translateY(-2px);
+}
+
+.query-button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: var(--primary-color);
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.query-button:hover {
+  background-color: #6b21d8;
+  box-shadow: var(--shadow);
+}
+
+.query-button:active {
+  transform: scale(0.98);
+}
+
+.reset-button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: white;
+  border: 2px solid #6b21d8;
+  color: #6b21d8;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.reset-button:hover {
+  background-color: #ffffff;
+  border: 2px solid #6b21d8;
+  box-shadow: var(--shadow);
+}
+
+.reset-button:active {
+  transform: scale(0.98);
+}
+
+
+
+#query-side select, #query-field {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  background-color: white;
+  color: var(--text-color);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+#query-field {
+  width: 60%;
+}
+
+#query-side select:hover {
+  border-color: var(--primary-color);
+  box-shadow: var(--shadow);
+}
+
+#query-side select:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}
+
+#query-div{
+  display: flex;
+  gap:0.3em;
+  justify-content: right;
+}

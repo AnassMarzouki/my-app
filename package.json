@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "ol": "^6.15.1",
+    "ol-ext": "^3.2.30",
+    "ol-popup": "^5.1.1"
+  }
+}

@@ -1,0 +1,322 @@
+{
+    "data":[
+     {
+      "Code": "BT",
+      "Facies": "Doleritic basalts and ophites",
+      "Age": "Permo-Triassic",
+      "Color": "#e66254"
+     },
+     {
+      "Code": "A",
+      "Facies": "Current alluvium",
+      "Age": "Recent Quaternary",
+      "Color": "#fef8d3"
+     },
+     {
+      "Code": "Al",
+      "Facies": "Recent silts and alluvium",
+      "Age": "Recent Quaternary",
+      "Color": "#ddd7b8"
+     },
+     {
+      "Code": "ciC",
+      "Facies": "Sandstones, sometimes conglomerates",
+      "Age": "Infracenomanian",
+      "Color": "#95cc79"
+     },
+     {
+      "Code": "cM",
+      "Facies": "Variegated marls and clays",
+      "Age": "Cenomanian",
+      "Color": "#c5db92"
+     },
+     {
+      "Code": "cM_T",
+      "Facies": "Sub-lithographic limestones",
+      "Age": "Senonian",
+      "Color": "#c5db92"
+     },
+     {
+      "Code": "csC",
+      "Facies": "Soft red sandstones",
+      "Age": "Senonian",
+      "Color": "#c5db92"
+     },
+     {
+      "Code": "csCa",
+      "Facies": "Soft red sandstones, with basal limestone bars with Melana depereti Russo",
+      "Age": "Senonian",
+      "Color": "#c5db92"
+     },
+     {
+      "Code": "D",
+      "Facies": "Aeolian sands and dune forms",
+      "Age": "Recent Quaternary",
+      "Color": "#fef8d3"
+     },
+     {
+      "Code": "d",
+      "Facies": "Middle and upper: Ben-Zireg, Talzazza, South of Jbel Grouz",
+      "Age": "Devonian",
+      "Color": "#66de98"
+     },
+     {
+      "Code": "e",
+      "Facies": "Dolerite dykes",
+      "Age": "Hercynian",
+      "Color": "#cf9c5a"
+     },
+     {
+      "Code": "hVsa",
+      "Facies": "Ben-Zireg Flysch, Jbel Anntar shales and southern border of Jbel Grouz",
+      "Age": "Upper Visean",
+      "Color": "#a3b5c1"
+     },
+     {
+      "Code": "hVsb",
+      "Facies": "Ben-Zireg and Jbel Asfer Shales",
+      "Age": "Upper Visean",
+      "Color": "#a3b5c1"
+     },
+     {
+      "Code": "hVsr",
+      "Facies": "Built facies",
+      "Age": "Upper Visean",
+      "Color": "#a3b5c1"
+     },
+     {
+      "Code": "I1",
+      "Facies": "Bedded limestones with Arnioceras",
+      "Age": "Sinemurian",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I1_2c",
+      "Facies": "Red facies with Ammonites",
+      "Age": "Sinemurian",
+      "Color": "#"
+     },
+     {
+      "Code": "I1_2d",
+      "Facies": "Dolomites and dolomitic limestones",
+      "Age": "Sinemurian",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I1r",
+      "Facies": "Massive and peri-reef facies",
+      "Age": "Sinemurian",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I2",
+      "Facies": "Limestones (bedded or massive)",
+      "Age": "Lotharginian",
+      "Color": "#4ac0ee"
+     },
+     {
+      "Code": "I2_3",
+      "Facies": "Red facies with Ammonite",
+      "Age": "Lotharginian",
+      "Color": "#4ac0ee"
+     },
+     {
+      "Code": "I3",
+      "Facies": "Bedded limestones",
+      "Age": "Pliensbachian",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I3_5c",
+      "Facies": "(Empty)",
+      "Age": "Middle Liassic",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I4",
+      "Facies": "Marls with Hildoceratidae",
+      "Age": "Toarcian",
+      "Color": "#a5d2e5"
+     },
+     {
+      "Code": "I5",
+      "Facies": "Marls and marly-limestones with Ammonites",
+      "Age": "Aalenian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "J1",
+      "Facies": "Undifferentiated Dogger of the southern border",
+      "Age": "Lower Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "j1_2",
+      "Facies": "Marly series with Posidonia ornati QUENST",
+      "Age": "Middle Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "j1_3",
+      "Facies": "Calcareous-marly series of Jbel Mellah",
+      "Age": "Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "J1_4",
+      "Facies": "Undifferentiated Dogger of the southern border",
+      "Age": "Lower Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "J2",
+      "Facies": "Marly series with Posidonia ornati QUENST",
+      "Age": "Middle Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "J2_3",
+      "Facies": "Marly and calcareous-marly series",
+      "Age": "Middle and Upper Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "j4h",
+      "Facies": "Marly level with Bothriopneustes galhauseni LAMBERT",
+      "Age": "Upper Jurassic and Bathonian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "jD",
+      "Facies": "Poorly fossiliferous dolomites and limestones of the High Plateaus",
+      "Age": "Lower Bajocian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "jm_s",
+      "Facies": "Pink\/red detrital series with fossil wood",
+      "Age": "Upper Jurassic and Bathonian",
+      "Color": "#92c5da"
+     },
+     {
+      "Code": "K_Or",
+      "Facies": "Schists of undetermined age",
+      "Age": "Cambro-Ordovician",
+      "Color": "#66b7b0"
+     },
+     {
+      "Code": "Ki1",
+      "Facies": "Limestone level of Jbel Tibalicine and dolomitic massifs",
+      "Age": "Lower Cambrian",
+      "Color": "#66b7b0"
+     },
+     {
+      "Code": "Ki4",
+      "Facies": "Brown arkosic sandstones and horizons with Termierella Hupé",
+      "Age": "Lower Cambrian",
+      "Color": "#66b7b0"
+     },
+     {
+      "Code": "Ks1",
+      "Facies": "Lingula Shales",
+      "Age": "Middle Cambrian",
+      "Color": "#66b7b0"
+     },
+     {
+      "Code": "Ks2",
+      "Facies": "Presumed Ocadian Quartzites",
+      "Age": "Middle Cambrian",
+      "Color": "#66b7b0"
+     },
+     {
+      "Code": "mpC",
+      "Facies": "Pink sandstones and detrital formations",
+      "Age": "Pontic-Pliocene",
+      "Color": "#fff9ad"
+     },
+     {
+      "Code": "oC",
+      "Facies": "Jbel Akdar Conglomerates and conglomeratic formations",
+      "Age": "Presumed Oligocene",
+      "Color": "#fdb462"
+     },
+     {
+      "Code": "Or1_3",
+      "Facies": "Green shales with Holograptus and Didymograptus",
+      "Age": "Ordovician",
+      "Color": "#00a98e"
+     },
+     {
+      "Code": "or4_7",
+      "Facies": "Quartzites with Scolythus",
+      "Age": "Ordovician",
+      "Color": "#00a98e"
+     },
+     {
+      "Code": "pVcg",
+      "Facies": "Chebkas Conglomerates",
+      "Age": "Plio-Villafranchian",
+      "Color": "#ebae45"
+     },
+     {
+      "Code": "px",
+      "Facies": "Epimetamorphic schists",
+      "Age": "Undetermined Primary or Precambrian",
+      "Color": "#d3cf56"
+     },
+     {
+      "Code": "qm",
+      "Facies": "Accumulation plains or bajadas",
+      "Age": "Middle and Early Quaternary",
+      "Color": "#fef8d3"
+     },
+     {
+      "Code": "qmc",
+      "Facies": "Slope glacis",
+      "Age": "Middle and Early Quaternary",
+      "Color": "#fef8d3"
+     },
+     {
+      "Code": "qV",
+      "Facies": "Encrusted coalescing bajadas",
+      "Age": "Villafranchian",
+      "Color": "#fff0bd"
+     },
+     {
+      "Code": "Sa",
+      "Facies": "Black phtanites and Graptolite shales",
+      "Age": "Silurian",
+      "Color": "#b3e1b6"
+     },
+     {
+      "Code": "t",
+      "Facies": "Pink argillites with gypsum and conglomerates",
+      "Age": "Permo-Triassic",
+      "Color": "#d53291"
+     },
+     {
+      "Code": "x_k",
+      "Facies": "Detrital schists and conglomerates",
+      "Age": "Infracambrian?",
+      "Color": "#e7a071"
+     },
+     {
+      "Code": "X3a",
+      "Facies": "Effusive rocks with andesitic dominance",
+      "Age": "Precambrian III",
+      "Color": "#fcbe7d"
+     },
+     {
+      "Code": "X3c",
+      "Facies": "Conglomerates and sandstones",
+      "Age": "Precambrian III",
+      "Color": "#fcbe7d"
+     },
+     {
+      "Code": "X3l",
+      "Facies": "Tuffs with andesitic lavas",
+      "Age": "Precambrian III",
+      "Color": "#fcbe7d"
+     }
+    ]
+    }

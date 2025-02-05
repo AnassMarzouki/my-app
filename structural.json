@@ -1,0 +1,2836 @@
+{
+    "structural":[
+     {
+      "type": "fault",
+      "length": "6.321689326"
+     },
+     {
+      "type": "fault",
+      "length": "4.111488352"
+     },
+     {
+      "type": "fault",
+      "length": "2.249659396"
+     },
+     {
+      "type": "fault",
+      "length": "0.669871908"
+     },
+     {
+      "type": "fault",
+      "length": "1.832263435"
+     },
+     {
+      "type": "fault",
+      "length": "2.398628604"
+     },
+     {
+      "type": "fault",
+      "length": "1.149361241"
+     },
+     {
+      "type": "fault",
+      "length": "6.941932052"
+     },
+     {
+      "type": "fault",
+      "length": "3.593755139"
+     },
+     {
+      "type": "fault",
+      "length": "3.665707023"
+     },
+     {
+      "type": "fault",
+      "length": "2.376201582"
+     },
+     {
+      "type": "fault",
+      "length": "1.70836387"
+     },
+     {
+      "type": "fault",
+      "length": "1.223691929"
+     },
+     {
+      "type": "fault",
+      "length": "1.536181187"
+     },
+     {
+      "type": "fault",
+      "length": "0.724919843"
+     },
+     {
+      "type": "fault",
+      "length": "1.277130117"
+     },
+     {
+      "type": "fault",
+      "length": "0.754855665"
+     },
+     {
+      "type": "fault",
+      "length": "1.437698566"
+     },
+     {
+      "type": "fault",
+      "length": "0.547286706"
+     },
+     {
+      "type": "fault",
+      "length": "0.643568009"
+     },
+     {
+      "type": "fault",
+      "length": "0.905970774"
+     },
+     {
+      "type": "fault",
+      "length": "1.206268703"
+     },
+     {
+      "type": "fault",
+      "length": "3.698139649"
+     },
+     {
+      "type": "fault",
+      "length": "1.065436808"
+     },
+     {
+      "type": "fault",
+      "length": "3.043435867"
+     },
+     {
+      "type": "fault",
+      "length": "7.648343719"
+     },
+     {
+      "type": "fault",
+      "length": "2.433831681"
+     },
+     {
+      "type": "fault",
+      "length": "0.8248798"
+     },
+     {
+      "type": "fault",
+      "length": "1.0279272"
+     },
+     {
+      "type": "fault",
+      "length": "1.914435889"
+     },
+     {
+      "type": "fault",
+      "length": "0.9898558"
+     },
+     {
+      "type": "fault",
+      "length": "1.501264014"
+     },
+     {
+      "type": "fault",
+      "length": "0.352831277"
+     },
+     {
+      "type": "fault",
+      "length": "2.908193218"
+     },
+     {
+      "type": "fault",
+      "length": "1.056285412"
+     },
+     {
+      "type": "fault",
+      "length": "1.577143718"
+     },
+     {
+      "type": "fault",
+      "length": "1.02195628"
+     },
+     {
+      "type": "fault",
+      "length": "2.014947564"
+     },
+     {
+      "type": "fault",
+      "length": "2.026519449"
+     },
+     {
+      "type": "fault",
+      "length": "1.150990325"
+     },
+     {
+      "type": "fault",
+      "length": "1.198114769"
+     },
+     {
+      "type": "fault",
+      "length": "2.513111358"
+     },
+     {
+      "type": "fault",
+      "length": "1.331062184"
+     },
+     {
+      "type": "fault",
+      "length": "2.296184099"
+     },
+     {
+      "type": "fault",
+      "length": "0.705114224"
+     },
+     {
+      "type": "fault",
+      "length": "2.352446193"
+     },
+     {
+      "type": "fault",
+      "length": "4.725694402"
+     },
+     {
+      "type": "fault",
+      "length": "4.262078224"
+     },
+     {
+      "type": "fault",
+      "length": "2.775174854"
+     },
+     {
+      "type": "fault",
+      "length": "2.719535014"
+     },
+     {
+      "type": "fault",
+      "length": "2.081583385"
+     },
+     {
+      "type": "fault",
+      "length": "2.008503152"
+     },
+     {
+      "type": "fault",
+      "length": "2.904029348"
+     },
+     {
+      "type": "fault",
+      "length": "1.321309284"
+     },
+     {
+      "type": "fault",
+      "length": "2.208388323"
+     },
+     {
+      "type": "fault",
+      "length": "2.287199942"
+     },
+     {
+      "type": "fault",
+      "length": "1.356455048"
+     },
+     {
+      "type": "fault",
+      "length": "1.634589499"
+     },
+     {
+      "type": "fault",
+      "length": "0.698695975"
+     },
+     {
+      "type": "fault",
+      "length": "0.644513661"
+     },
+     {
+      "type": "fault",
+      "length": "0.397690604"
+     },
+     {
+      "type": "fault",
+      "length": "1.31147968"
+     },
+     {
+      "type": "fault",
+      "length": "0.350387405"
+     },
+     {
+      "type": "fault",
+      "length": "0.731318676"
+     },
+     {
+      "type": "fault",
+      "length": "1.289370271"
+     },
+     {
+      "type": "fault",
+      "length": "1.113332494"
+     },
+     {
+      "type": "fault",
+      "length": "1.13028746"
+     },
+     {
+      "type": "fault",
+      "length": "0.549361775"
+     },
+     {
+      "type": "fault",
+      "length": "2.982150102"
+     },
+     {
+      "type": "fault",
+      "length": "0.545383325"
+     },
+     {
+      "type": "fault",
+      "length": "1.681159551"
+     },
+     {
+      "type": "fault",
+      "length": "0.568244153"
+     },
+     {
+      "type": "fault",
+      "length": "0.726193235"
+     },
+     {
+      "type": "fault",
+      "length": "5.626784531"
+     },
+     {
+      "type": "fault",
+      "length": "1.4955247"
+     },
+     {
+      "type": "fault",
+      "length": "2.437802478"
+     },
+     {
+      "type": "fault",
+      "length": "3.841710926"
+     },
+     {
+      "type": "fault",
+      "length": "2.202786191"
+     },
+     {
+      "type": "fault",
+      "length": "1.676973689"
+     },
+     {
+      "type": "fault",
+      "length": "2.185474978"
+     },
+     {
+      "type": "fault",
+      "length": "1.803139168"
+     },
+     {
+      "type": "fault",
+      "length": "2.073249708"
+     },
+     {
+      "type": "fault",
+      "length": "2.849255934"
+     },
+     {
+      "type": "fault",
+      "length": "2.6848023"
+     },
+     {
+      "type": "fault",
+      "length": "2.467107929"
+     },
+     {
+      "type": "fault",
+      "length": "3.101243603"
+     },
+     {
+      "type": "fault",
+      "length": "6.957341701"
+     },
+     {
+      "type": "fault",
+      "length": "5.165120481"
+     },
+     {
+      "type": "fault",
+      "length": "3.1683486"
+     },
+     {
+      "type": "fault",
+      "length": "1.081108319"
+     },
+     {
+      "type": "fault",
+      "length": "0.804130315"
+     },
+     {
+      "type": "fault",
+      "length": "2.855872448"
+     },
+     {
+      "type": "fault",
+      "length": "0.839952216"
+     },
+     {
+      "type": "fault",
+      "length": "0.473350935"
+     },
+     {
+      "type": "fault",
+      "length": "0.607140863"
+     },
+     {
+      "type": "fault",
+      "length": "1.040055891"
+     },
+     {
+      "type": "fault",
+      "length": "1.970836792"
+     },
+     {
+      "type": "fault",
+      "length": "1.835455736"
+     },
+     {
+      "type": "fault",
+      "length": "0.965198841"
+     },
+     {
+      "type": "fault",
+      "length": "1.67994375"
+     },
+     {
+      "type": "fault",
+      "length": "0.99717586"
+     },
+     {
+      "type": "fault",
+      "length": "3.171317448"
+     },
+     {
+      "type": "fault",
+      "length": "0.934782536"
+     },
+     {
+      "type": "fault",
+      "length": "3.538809777"
+     },
+     {
+      "type": "fault",
+      "length": "3.168536258"
+     },
+     {
+      "type": "fault",
+      "length": "2.042972215"
+     },
+     {
+      "type": "fault",
+      "length": "2.329909994"
+     },
+     {
+      "type": "fault",
+      "length": "3.277553512"
+     },
+     {
+      "type": "fault",
+      "length": "1.206953896"
+     },
+     {
+      "type": "fault",
+      "length": "2.558193092"
+     },
+     {
+      "type": "fault",
+      "length": "4.496766763"
+     },
+     {
+      "type": "fault",
+      "length": "1.017320678"
+     },
+     {
+      "type": "fault",
+      "length": "1.67694196"
+     },
+     {
+      "type": "fault",
+      "length": "1.003676228"
+     },
+     {
+      "type": "fault",
+      "length": "2.003849638"
+     },
+     {
+      "type": "fault",
+      "length": "3.769157941"
+     },
+     {
+      "type": "fault",
+      "length": "2.690136118"
+     },
+     {
+      "type": "fault",
+      "length": "2.487296765"
+     },
+     {
+      "type": "fault",
+      "length": "3.734036726"
+     },
+     {
+      "type": "fault",
+      "length": "2.943520144"
+     },
+     {
+      "type": "fault",
+      "length": "5.00861271"
+     },
+     {
+      "type": "fault",
+      "length": "3.693161809"
+     },
+     {
+      "type": "fault",
+      "length": "5.037452416"
+     },
+     {
+      "type": "fault",
+      "length": "0.80035261"
+     },
+     {
+      "type": "fault",
+      "length": "5.151369247"
+     },
+     {
+      "type": "fault",
+      "length": "1.8192026"
+     },
+     {
+      "type": "fault",
+      "length": "2.629501156"
+     },
+     {
+      "type": "fault",
+      "length": "1.503264863"
+     },
+     {
+      "type": "fault",
+      "length": "1.708643335"
+     },
+     {
+      "type": "fault",
+      "length": "1.649716628"
+     },
+     {
+      "type": "fault",
+      "length": "1.397211825"
+     },
+     {
+      "type": "fault",
+      "length": "4.682963382"
+     },
+     {
+      "type": "fault",
+      "length": "2.322158174"
+     },
+     {
+      "type": "fault",
+      "length": "1.994149124"
+     },
+     {
+      "type": "fault",
+      "length": "1.478943298"
+     },
+     {
+      "type": "fault",
+      "length": "7.644430252"
+     },
+     {
+      "type": "fault",
+      "length": "1.163903263"
+     },
+     {
+      "type": "fault",
+      "length": "1.143236495"
+     },
+     {
+      "type": "fault",
+      "length": "1.200434301"
+     },
+     {
+      "type": "fault",
+      "length": "1.64186002"
+     },
+     {
+      "type": "fault",
+      "length": "1.067142121"
+     },
+     {
+      "type": "fault",
+      "length": "1.35716165"
+     },
+     {
+      "type": "fault",
+      "length": "1.478704158"
+     },
+     {
+      "type": "fault",
+      "length": "2.868278944"
+     },
+     {
+      "type": "fault",
+      "length": "0.898131512"
+     },
+     {
+      "type": "fault",
+      "length": "0.4020337"
+     },
+     {
+      "type": "fault",
+      "length": "0.704706733"
+     },
+     {
+      "type": "fault",
+      "length": "0.591571413"
+     },
+     {
+      "type": "fault",
+      "length": "1.190064612"
+     },
+     {
+      "type": "fault",
+      "length": "1.749719287"
+     },
+     {
+      "type": "fault",
+      "length": "3.380619986"
+     },
+     {
+      "type": "fault",
+      "length": "2.54294122"
+     },
+     {
+      "type": "fault",
+      "length": "1.294177895"
+     },
+     {
+      "type": "fault",
+      "length": "2.255226968"
+     },
+     {
+      "type": "fault",
+      "length": "1.623188535"
+     },
+     {
+      "type": "fault",
+      "length": "0.502836916"
+     },
+     {
+      "type": "fault",
+      "length": "0.788954721"
+     },
+     {
+      "type": "fault",
+      "length": "1.609738541"
+     },
+     {
+      "type": "fault",
+      "length": "0.944565828"
+     },
+     {
+      "type": "fault",
+      "length": "2.435840891"
+     },
+     {
+      "type": "fault",
+      "length": "1.51021792"
+     },
+     {
+      "type": "fault",
+      "length": "1.508243803"
+     },
+     {
+      "type": "fault",
+      "length": "1.573309755"
+     },
+     {
+      "type": "fault",
+      "length": "0.478886139"
+     },
+     {
+      "type": "fault",
+      "length": "1.585088597"
+     },
+     {
+      "type": "fault",
+      "length": "3.31106692"
+     },
+     {
+      "type": "fault",
+      "length": "1.242952593"
+     },
+     {
+      "type": "fault",
+      "length": "1.820096626"
+     },
+     {
+      "type": "fault",
+      "length": "9.432168982"
+     },
+     {
+      "type": "fault",
+      "length": "3.970916864"
+     },
+     {
+      "type": "fault",
+      "length": "5.918332563"
+     },
+     {
+      "type": "fault",
+      "length": "2.993872567"
+     },
+     {
+      "type": "fault",
+      "length": "1.637511829"
+     },
+     {
+      "type": "fault",
+      "length": "1.325853115"
+     },
+     {
+      "type": "fault",
+      "length": "1.549392721"
+     },
+     {
+      "type": "fault",
+      "length": "1.376143293"
+     },
+     {
+      "type": "fault",
+      "length": "1.430845656"
+     },
+     {
+      "type": "fault",
+      "length": "1.35808658"
+     },
+     {
+      "type": "fault",
+      "length": "3.365735881"
+     },
+     {
+      "type": "fault",
+      "length": "4.109229563"
+     },
+     {
+      "type": "fault",
+      "length": "1.213291807"
+     },
+     {
+      "type": "fault",
+      "length": "9.253775059"
+     },
+     {
+      "type": "fault",
+      "length": "3.299298228"
+     },
+     {
+      "type": "fault",
+      "length": "3.057273643"
+     },
+     {
+      "type": "fault",
+      "length": "4.364728506"
+     },
+     {
+      "type": "fault",
+      "length": "3.380875626"
+     },
+     {
+      "type": "fault",
+      "length": "7.509652857"
+     },
+     {
+      "type": "fault",
+      "length": "0.540579755"
+     },
+     {
+      "type": "fault",
+      "length": "2.662003319"
+     },
+     {
+      "type": "fault",
+      "length": "10.450739931"
+     },
+     {
+      "type": "fault",
+      "length": "1.578110475"
+     },
+     {
+      "type": "fault",
+      "length": "1.496867254"
+     },
+     {
+      "type": "fault",
+      "length": "5.297337894"
+     },
+     {
+      "type": "fault",
+      "length": "2.147089069"
+     },
+     {
+      "type": "fault",
+      "length": "1.197618909"
+     },
+     {
+      "type": "fault",
+      "length": "1.406352476"
+     },
+     {
+      "type": "fault",
+      "length": "0.97790667"
+     },
+     {
+      "type": "fault",
+      "length": "1.321332115"
+     },
+     {
+      "type": "fault",
+      "length": "0.674387721"
+     },
+     {
+      "type": "fault",
+      "length": "3.049567733"
+     },
+     {
+      "type": "fault",
+      "length": "0.807615844"
+     },
+     {
+      "type": "fault",
+      "length": "2.427197437"
+     },
+     {
+      "type": "fault",
+      "length": "0.510150174"
+     },
+     {
+      "type": "fault",
+      "length": "1.440800224"
+     },
+     {
+      "type": "fault",
+      "length": "0.935055197"
+     },
+     {
+      "type": "fault",
+      "length": "1.180280927"
+     },
+     {
+      "type": "fault",
+      "length": "0.710778999"
+     },
+     {
+      "type": "fault",
+      "length": "1.320051724"
+     },
+     {
+      "type": "fault",
+      "length": "0.79657276"
+     },
+     {
+      "type": "fault",
+      "length": "1.714386522"
+     },
+     {
+      "type": "fault",
+      "length": "0.628145581"
+     },
+     {
+      "type": "fault",
+      "length": "1.538897973"
+     },
+     {
+      "type": "fault",
+      "length": "0.834584647"
+     },
+     {
+      "type": "fault",
+      "length": "1.675909562"
+     },
+     {
+      "type": "fault",
+      "length": "1.826941293"
+     },
+     {
+      "type": "fault",
+      "length": "0.576822914"
+     },
+     {
+      "type": "fault",
+      "length": "0.529513122"
+     },
+     {
+      "type": "fault",
+      "length": "1.006634221"
+     },
+     {
+      "type": "fault",
+      "length": "7.621294827"
+     },
+     {
+      "type": "fault",
+      "length": "2.516122522"
+     },
+     {
+      "type": "fault",
+      "length": "3.25255772"
+     },
+     {
+      "type": "fault",
+      "length": "4.096483191"
+     },
+     {
+      "type": "fault",
+      "length": "1.277730032"
+     },
+     {
+      "type": "fault",
+      "length": "0.651717614"
+     },
+     {
+      "type": "fault",
+      "length": "1.790010967"
+     },
+     {
+      "type": "fault",
+      "length": "1.4276766"
+     },
+     {
+      "type": "fault",
+      "length": "1.369087851"
+     },
+     {
+      "type": "fault",
+      "length": "1.469476391"
+     },
+     {
+      "type": "fault",
+      "length": "1.222118107"
+     },
+     {
+      "type": "fault",
+      "length": "1.347450414"
+     },
+     {
+      "type": "fault",
+      "length": "0.526687204"
+     },
+     {
+      "type": "fault",
+      "length": "1.065815944"
+     },
+     {
+      "type": "fault",
+      "length": "0.929254663"
+     },
+     {
+      "type": "fault",
+      "length": "0.653473904"
+     },
+     {
+      "type": "fault",
+      "length": "2.529480011"
+     },
+     {
+      "type": "fault",
+      "length": "2.736491571"
+     },
+     {
+      "type": "fault",
+      "length": "1.835373167"
+     },
+     {
+      "type": "fault",
+      "length": "2.14650822"
+     },
+     {
+      "type": "fault",
+      "length": "4.64208104"
+     },
+     {
+      "type": "fault",
+      "length": "2.998608237"
+     },
+     {
+      "type": "fault",
+      "length": "2.568116459"
+     },
+     {
+      "type": "fault",
+      "length": "3.031925592"
+     },
+     {
+      "type": "fault",
+      "length": "1.653670105"
+     },
+     {
+      "type": "fault",
+      "length": "1.107281823"
+     },
+     {
+      "type": "fault",
+      "length": "2.767752512"
+     },
+     {
+      "type": "fault",
+      "length": "2.434698075"
+     },
+     {
+      "type": "fault",
+      "length": "2.052538727"
+     },
+     {
+      "type": "fault",
+      "length": "2.849994599"
+     },
+     {
+      "type": "fault",
+      "length": "7.595360488"
+     },
+     {
+      "type": "fault",
+      "length": "2.777493023"
+     },
+     {
+      "type": "fault",
+      "length": "1.710496893"
+     },
+     {
+      "type": "fault",
+      "length": "1.388597455"
+     },
+     {
+      "type": "fault",
+      "length": "1.38481076"
+     },
+     {
+      "type": "fault",
+      "length": "1.555047822"
+     },
+     {
+      "type": "fault",
+      "length": "1.447517815"
+     },
+     {
+      "type": "fault",
+      "length": "4.23066383"
+     },
+     {
+      "type": "fault",
+      "length": "1.919535285"
+     },
+     {
+      "type": "fault",
+      "length": "1.793116482"
+     },
+     {
+      "type": "fault",
+      "length": "0.390052693"
+     },
+     {
+      "type": "fault",
+      "length": "2.407755484"
+     },
+     {
+      "type": "fault",
+      "length": "11.519111546"
+     },
+     {
+      "type": "fault",
+      "length": "1.416673907"
+     },
+     {
+      "type": "fault",
+      "length": "0.806717965"
+     },
+     {
+      "type": "fault",
+      "length": "6.474847968"
+     },
+     {
+      "type": "fault",
+      "length": "2.829364485"
+     },
+     {
+      "type": "fault",
+      "length": "0.638537982"
+     },
+     {
+      "type": "fault",
+      "length": "3.590626674"
+     },
+     {
+      "type": "fault",
+      "length": "2.515253222"
+     },
+     {
+      "type": "fault",
+      "length": "3.973852992"
+     },
+     {
+      "type": "fault",
+      "length": "2.241408682"
+     },
+     {
+      "type": "fault",
+      "length": "3.299899686"
+     },
+     {
+      "type": "fault",
+      "length": "0.54754184"
+     },
+     {
+      "type": "fault",
+      "length": "4.634019694"
+     },
+     {
+      "type": "fault",
+      "length": "2.027251072"
+     },
+     {
+      "type": "fault",
+      "length": "3.816759065"
+     },
+     {
+      "type": "fault",
+      "length": "4.83848059"
+     },
+     {
+      "type": "fault",
+      "length": "1.457377762"
+     },
+     {
+      "type": "fault",
+      "length": "1.976180592"
+     },
+     {
+      "type": "fault",
+      "length": "5.064757625"
+     },
+     {
+      "type": "fault",
+      "length": "6.594740179"
+     },
+     {
+      "type": "fault",
+      "length": "2.047513891"
+     },
+     {
+      "type": "fault",
+      "length": "0.654426905"
+     },
+     {
+      "type": "fault",
+      "length": "1.852183422"
+     },
+     {
+      "type": "fault",
+      "length": "1.020029654"
+     },
+     {
+      "type": "fault",
+      "length": "1.662895119"
+     },
+     {
+      "type": "fault",
+      "length": "2.080602144"
+     },
+     {
+      "type": "fault",
+      "length": "1.548183255"
+     },
+     {
+      "type": "fault",
+      "length": "1.342867896"
+     },
+     {
+      "type": "fault",
+      "length": "1.801087722"
+     },
+     {
+      "type": "fault",
+      "length": "0.746239221"
+     },
+     {
+      "type": "fault",
+      "length": "1.602111544"
+     },
+     {
+      "type": "fault",
+      "length": "1.033567723"
+     },
+     {
+      "type": "fault",
+      "length": "1.71438664"
+     },
+     {
+      "type": "fault",
+      "length": "2.306874324"
+     },
+     {
+      "type": "fault",
+      "length": "0.527704234"
+     },
+     {
+      "type": "fault",
+      "length": "0.774187336"
+     },
+     {
+      "type": "fault",
+      "length": "0.402572124"
+     },
+     {
+      "type": "fault",
+      "length": "4.838077021"
+     },
+     {
+      "type": "fault",
+      "length": "1.47922114"
+     },
+     {
+      "type": "fault",
+      "length": "1.642438004"
+     },
+     {
+      "type": "fault",
+      "length": "1.433447029"
+     },
+     {
+      "type": "fault",
+      "length": "1.319869636"
+     },
+     {
+      "type": "fault",
+      "length": "1.438682729"
+     },
+     {
+      "type": "fault",
+      "length": "1.253630512"
+     },
+     {
+      "type": "fault",
+      "length": "0.985142878"
+     },
+     {
+      "type": "fault",
+      "length": "4.763813476"
+     },
+     {
+      "type": "fault",
+      "length": "0.732564917"
+     },
+     {
+      "type": "fault",
+      "length": "0.891075624"
+     },
+     {
+      "type": "fault",
+      "length": "1.593846754"
+     },
+     {
+      "type": "fault",
+      "length": "1.77921495"
+     },
+     {
+      "type": "fault",
+      "length": "0.845803817"
+     },
+     {
+      "type": "fault",
+      "length": "1.743870636"
+     },
+     {
+      "type": "fault",
+      "length": "1.493300812"
+     },
+     {
+      "type": "fault",
+      "length": "2.117950174"
+     },
+     {
+      "type": "fault",
+      "length": "6.278505446"
+     },
+     {
+      "type": "fault",
+      "length": "2.890480071"
+     },
+     {
+      "type": "fault",
+      "length": "1.107056085"
+     },
+     {
+      "type": "fault",
+      "length": "4.859182127"
+     },
+     {
+      "type": "fault",
+      "length": "5.691319008"
+     },
+     {
+      "type": "fault",
+      "length": "8.645454875"
+     },
+     {
+      "type": "fault",
+      "length": "5.212650015"
+     },
+     {
+      "type": "fault",
+      "length": "2.189202037"
+     },
+     {
+      "type": "fault",
+      "length": "3.377706522"
+     },
+     {
+      "type": "fault",
+      "length": "1.144460932"
+     },
+     {
+      "type": "fault",
+      "length": "0.935954967"
+     },
+     {
+      "type": "fault",
+      "length": "4.645423603"
+     },
+     {
+      "type": "fault",
+      "length": "8.524508283"
+     },
+     {
+      "type": "fault",
+      "length": "3.875210554"
+     },
+     {
+      "type": "fault",
+      "length": "5.282670423"
+     },
+     {
+      "type": "fault",
+      "length": "1.778681688"
+     },
+     {
+      "type": "fault",
+      "length": "1.769987669"
+     },
+     {
+      "type": "fault",
+      "length": "1.851613234"
+     },
+     {
+      "type": "fault",
+      "length": "3.038296905"
+     },
+     {
+      "type": "fault",
+      "length": "1.166241062"
+     },
+     {
+      "type": "fault",
+      "length": "2.731724392"
+     },
+     {
+      "type": "fault",
+      "length": "0.64291024"
+     },
+     {
+      "type": "fault",
+      "length": "1.26135438"
+     },
+     {
+      "type": "fault",
+      "length": "0.539129428"
+     },
+     {
+      "type": "fault",
+      "length": "5.87109993"
+     },
+     {
+      "type": "fault",
+      "length": "4.106824697"
+     },
+     {
+      "type": "fault",
+      "length": "3.070910857"
+     },
+     {
+      "type": "fault",
+      "length": "1.925558101"
+     },
+     {
+      "type": "fault",
+      "length": "0.810439494"
+     },
+     {
+      "type": "fault",
+      "length": "3.344923398"
+     },
+     {
+      "type": "fault",
+      "length": "0.75375676"
+     },
+     {
+      "type": "fault",
+      "length": "3.17163862"
+     },
+     {
+      "type": "fault",
+      "length": "1.548428222"
+     },
+     {
+      "type": "fault",
+      "length": "0.929685089"
+     },
+     {
+      "type": "fault",
+      "length": "1.570641433"
+     },
+     {
+      "type": "fault",
+      "length": "3.738438722"
+     },
+     {
+      "type": "fault",
+      "length": "1.852051272"
+     },
+     {
+      "type": "fault",
+      "length": "2.611105669"
+     },
+     {
+      "type": "fault",
+      "length": "1.003268815"
+     },
+     {
+      "type": "fault",
+      "length": "6.842632687"
+     },
+     {
+      "type": "fault",
+      "length": "3.249298004"
+     },
+     {
+      "type": "fault",
+      "length": "3.8354599"
+     },
+     {
+      "type": "fault",
+      "length": "2.085324265"
+     },
+     {
+      "type": "fault",
+      "length": "2.062443632"
+     },
+     {
+      "type": "fault",
+      "length": "2.652772651"
+     },
+     {
+      "type": "fault",
+      "length": "2.663445882"
+     },
+     {
+      "type": "fault",
+      "length": "1.990117244"
+     },
+     {
+      "type": "fault",
+      "length": "3.673560293"
+     },
+     {
+      "type": "fault",
+      "length": "1.468290194"
+     },
+     {
+      "type": "fault",
+      "length": "4.152808959"
+     },
+     {
+      "type": "fault",
+      "length": "5.092204813"
+     },
+     {
+      "type": "fault",
+      "length": "2.36847886"
+     },
+     {
+      "type": "fault",
+      "length": "1.981267908"
+     },
+     {
+      "type": "fault",
+      "length": "3.223438775"
+     },
+     {
+      "type": "fault",
+      "length": "2.203252462"
+     },
+     {
+      "type": "fault",
+      "length": "2.600723686"
+     },
+     {
+      "type": "fault",
+      "length": "6.944269662"
+     },
+     {
+      "type": "fault",
+      "length": "3.187629712"
+     },
+     {
+      "type": "fault",
+      "length": "2.358819728"
+     },
+     {
+      "type": "fault",
+      "length": "3.340794217"
+     },
+     {
+      "type": "fault",
+      "length": "2.459839059"
+     },
+     {
+      "type": "fault",
+      "length": "3.561720287"
+     },
+     {
+      "type": "fault",
+      "length": "2.809137994"
+     },
+     {
+      "type": "fault",
+      "length": "0.812075165"
+     },
+     {
+      "type": "fault",
+      "length": "4.355501381"
+     },
+     {
+      "type": "fault",
+      "length": "2.969823469"
+     },
+     {
+      "type": "fault",
+      "length": "0.696271947"
+     },
+     {
+      "type": "fault",
+      "length": "4.122524353"
+     },
+     {
+      "type": "fault",
+      "length": "4.268257677"
+     },
+     {
+      "type": "fault",
+      "length": "8.929869352"
+     },
+     {
+      "type": "fault",
+      "length": "1.820209672"
+     },
+     {
+      "type": "fault",
+      "length": "5.179096888"
+     },
+     {
+      "type": "fault",
+      "length": "2.761648364"
+     },
+     {
+      "type": "fault",
+      "length": "3.344629582"
+     },
+     {
+      "type": "fault",
+      "length": "1.240887907"
+     },
+     {
+      "type": "fault",
+      "length": "1.197061157"
+     },
+     {
+      "type": "fault",
+      "length": "7.047066369"
+     },
+     {
+      "type": "fault",
+      "length": "2.708097061"
+     },
+     {
+      "type": "fault",
+      "length": "1.738335091"
+     },
+     {
+      "type": "fault",
+      "length": "2.739170109"
+     },
+     {
+      "type": "fault",
+      "length": "1.65900744"
+     },
+     {
+      "type": "fault",
+      "length": "1.815844516"
+     },
+     {
+      "type": "fault",
+      "length": "2.82313508"
+     },
+     {
+      "type": "fault",
+      "length": "2.247263028"
+     },
+     {
+      "type": "fault",
+      "length": "1.356455134"
+     },
+     {
+      "type": "fault",
+      "length": "4.278383268"
+     },
+     {
+      "type": "fault",
+      "length": "1.917471756"
+     },
+     {
+      "type": "fault",
+      "length": "3.085492079"
+     },
+     {
+      "type": "fault",
+      "length": "0.520927461"
+     },
+     {
+      "type": "fault",
+      "length": "2.278730992"
+     },
+     {
+      "type": "fault",
+      "length": "5.483554098"
+     },
+     {
+      "type": "fault",
+      "length": "3.159272197"
+     },
+     {
+      "type": "fault",
+      "length": "1.769535746"
+     },
+     {
+      "type": "fault",
+      "length": "1.017217628"
+     },
+     {
+      "type": "fault",
+      "length": "0.816570705"
+     },
+     {
+      "type": "fault",
+      "length": "1.576122294"
+     },
+     {
+      "type": "fault",
+      "length": "0.426406994"
+     },
+     {
+      "type": "fault",
+      "length": "0.524624196"
+     },
+     {
+      "type": "fault",
+      "length": "0.732537455"
+     },
+     {
+      "type": "fault",
+      "length": "0.810800164"
+     },
+     {
+      "type": "fault",
+      "length": "0.749408913"
+     },
+     {
+      "type": "fault",
+      "length": "1.368063083"
+     },
+     {
+      "type": "fault",
+      "length": "2.101944235"
+     },
+     {
+      "type": "fault",
+      "length": "0.840185961"
+     },
+     {
+      "type": "fault",
+      "length": "0.610330572"
+     },
+     {
+      "type": "fault",
+      "length": "1.452059731"
+     },
+     {
+      "type": "fault",
+      "length": "2.226913315"
+     },
+     {
+      "type": "fault",
+      "length": "1.895089948"
+     },
+     {
+      "type": "fault",
+      "length": "1.313945211"
+     },
+     {
+      "type": "fault",
+      "length": "2.283604694"
+     },
+     {
+      "type": "fault",
+      "length": "1.708647695"
+     },
+     {
+      "type": "fault",
+      "length": "0.625938433"
+     },
+     {
+      "type": "fault",
+      "length": "2.493768095"
+     },
+     {
+      "type": "fault",
+      "length": "1.565469252"
+     },
+     {
+      "type": "fault",
+      "length": "4.0981675"
+     },
+     {
+      "type": "fault",
+      "length": "1.557700369"
+     },
+     {
+      "type": "fault",
+      "length": "4.457998911"
+     },
+     {
+      "type": "fault",
+      "length": "2.947870565"
+     },
+     {
+      "type": "fault",
+      "length": "5.613899636"
+     },
+     {
+      "type": "fault",
+      "length": "0.428408742"
+     },
+     {
+      "type": "fault",
+      "length": "8.968742833"
+     },
+     {
+      "type": "fault",
+      "length": "0.904164376"
+     },
+     {
+      "type": "fault",
+      "length": "1.672959889"
+     },
+     {
+      "type": "fault",
+      "length": "5.264827123"
+     },
+     {
+      "type": "fault",
+      "length": "5.389183067"
+     },
+     {
+      "type": "fault",
+      "length": "1.716606462"
+     },
+     {
+      "type": "fault",
+      "length": "0.585963977"
+     },
+     {
+      "type": "fault",
+      "length": "0.507658056"
+     },
+     {
+      "type": "fault",
+      "length": "2.693081872"
+     },
+     {
+      "type": "fault",
+      "length": "0.649262949"
+     },
+     {
+      "type": "fault",
+      "length": "3.173715741"
+     },
+     {
+      "type": "fault",
+      "length": "3.789397535"
+     },
+     {
+      "type": "fault",
+      "length": "5.351832503"
+     },
+     {
+      "type": "fault",
+      "length": "7.39166517"
+     },
+     {
+      "type": "fault",
+      "length": "3.051215034"
+     },
+     {
+      "type": "fault",
+      "length": "4.038000497"
+     },
+     {
+      "type": "fault",
+      "length": "2.46972109"
+     },
+     {
+      "type": "fault",
+      "length": "3.305393142"
+     },
+     {
+      "type": "fault",
+      "length": "4.919503858"
+     },
+     {
+      "type": "fault",
+      "length": "4.302351435"
+     },
+     {
+      "type": "fault",
+      "length": "5.614948506"
+     },
+     {
+      "type": "fault",
+      "length": "8.294335693"
+     },
+     {
+      "type": "fault",
+      "length": "3.583357951"
+     },
+     {
+      "type": "fault",
+      "length": "7.204123189"
+     },
+     {
+      "type": "fault",
+      "length": "2.91139054"
+     },
+     {
+      "type": "fault",
+      "length": "5.910266985"
+     },
+     {
+      "type": "fault",
+      "length": "6.803396778"
+     },
+     {
+      "type": "fault",
+      "length": "1.575382907"
+     },
+     {
+      "type": "fault",
+      "length": "1.422085888"
+     },
+     {
+      "type": "fault",
+      "length": "3.552366176"
+     },
+     {
+      "type": "fault",
+      "length": "12.096659513"
+     },
+     {
+      "type": "fault",
+      "length": "2.786849204"
+     },
+     {
+      "type": "fault",
+      "length": "3.906300398"
+     },
+     {
+      "type": "fault",
+      "length": "7.584911557"
+     },
+     {
+      "type": "fault",
+      "length": "3.46178604"
+     },
+     {
+      "type": "fault",
+      "length": "2.603676076"
+     },
+     {
+      "type": "fault",
+      "length": "1.774744524"
+     },
+     {
+      "type": "fault",
+      "length": "3.09339093"
+     },
+     {
+      "type": "fault",
+      "length": "2.838729133"
+     },
+     {
+      "type": "fault",
+      "length": "1.31865523"
+     },
+     {
+      "type": "fault",
+      "length": "0.854252649"
+     },
+     {
+      "type": "fault",
+      "length": "0.885441624"
+     },
+     {
+      "type": "fault",
+      "length": "1.586431326"
+     },
+     {
+      "type": "fault",
+      "length": "1.998999078"
+     },
+     {
+      "type": "fault",
+      "length": "0.563295694"
+     },
+     {
+      "type": "fault",
+      "length": "3.739467497"
+     },
+     {
+      "type": "fault",
+      "length": "1.375534191"
+     },
+     {
+      "type": "fault",
+      "length": "0.755352771"
+     },
+     {
+      "type": "fault",
+      "length": "0.881556988"
+     },
+     {
+      "type": "fault",
+      "length": "1.188976956"
+     },
+     {
+      "type": "fault",
+      "length": "0.819559762"
+     },
+     {
+      "type": "fault",
+      "length": "0.5660686"
+     },
+     {
+      "type": "fault",
+      "length": "0.843612532"
+     },
+     {
+      "type": "fault",
+      "length": "2.134600874"
+     },
+     {
+      "type": "fault",
+      "length": "1.557353122"
+     },
+     {
+      "type": "fault",
+      "length": "2.473046545"
+     },
+     {
+      "type": "fault",
+      "length": "1.343659082"
+     },
+     {
+      "type": "fault",
+      "length": "2.593818728"
+     },
+     {
+      "type": "fault",
+      "length": "1.626162297"
+     },
+     {
+      "type": "fault",
+      "length": "2.403335769"
+     },
+     {
+      "type": "fault",
+      "length": "1.141235484"
+     },
+     {
+      "type": "fault",
+      "length": "1.745713775"
+     },
+     {
+      "type": "fault",
+      "length": "2.25980157"
+     },
+     {
+      "type": "fault",
+      "length": "1.694978098"
+     },
+     {
+      "type": "fault",
+      "length": "1.568250732"
+     },
+     {
+      "type": "fault",
+      "length": "2.726818911"
+     },
+     {
+      "type": "fault",
+      "length": "5.47136233"
+     },
+     {
+      "type": "fault",
+      "length": "2.726339557"
+     },
+     {
+      "type": "fault",
+      "length": "2.068410508"
+     },
+     {
+      "type": "fault",
+      "length": "0.626180237"
+     },
+     {
+      "type": "fault",
+      "length": "3.039606929"
+     },
+     {
+      "type": "fault",
+      "length": "5.670958455"
+     },
+     {
+      "type": "fault",
+      "length": "1.794510122"
+     },
+     {
+      "type": "fault",
+      "length": "1.44664612"
+     },
+     {
+      "type": "fault",
+      "length": "6.931131127"
+     },
+     {
+      "type": "fault",
+      "length": "7.306969518"
+     },
+     {
+      "type": "fault",
+      "length": "1.662373758"
+     },
+     {
+      "type": "fault",
+      "length": "1.438821228"
+     },
+     {
+      "type": "fault",
+      "length": "0.971663882"
+     },
+     {
+      "type": "fault",
+      "length": "1.5466496"
+     },
+     {
+      "type": "fault",
+      "length": "3.023963412"
+     },
+     {
+      "type": "fault",
+      "length": "1.103221976"
+     },
+     {
+      "type": "fault",
+      "length": "1.361419929"
+     },
+     {
+      "type": "fault",
+      "length": "1.445715235"
+     },
+     {
+      "type": "fault",
+      "length": "8.305566624"
+     },
+     {
+      "type": "fault",
+      "length": "1.216940904"
+     },
+     {
+      "type": "fault",
+      "length": "1.824023792"
+     },
+     {
+      "type": "fault",
+      "length": "3.090507243"
+     },
+     {
+      "type": "fault",
+      "length": "1.562782439"
+     },
+     {
+      "type": "fault",
+      "length": "1.868990479"
+     },
+     {
+      "type": "fault",
+      "length": "0.573322249"
+     },
+     {
+      "type": "fault",
+      "length": "2.754092654"
+     },
+     {
+      "type": "fault",
+      "length": "1.586510436"
+     },
+     {
+      "type": "fault",
+      "length": "1.630909157"
+     },
+     {
+      "type": "fault",
+      "length": "2.392825226"
+     },
+     {
+      "type": "fault",
+      "length": "2.810879337"
+     },
+     {
+      "type": "fault",
+      "length": "8.24709337"
+     },
+     {
+      "type": "fault",
+      "length": "1.932670813"
+     },
+     {
+      "type": "fault",
+      "length": "1.584869522"
+     },
+     {
+      "type": "fault",
+      "length": "0.926020191"
+     },
+     {
+      "type": "fault",
+      "length": "1.04175012"
+     },
+     {
+      "type": "fault",
+      "length": "0.781206034"
+     },
+     {
+      "type": "fault",
+      "length": "0.966236978"
+     },
+     {
+      "type": "fault",
+      "length": "1.66325519"
+     },
+     {
+      "type": "fault",
+      "length": "2.329624442"
+     },
+     {
+      "type": "fault",
+      "length": "3.249120789"
+     },
+     {
+      "type": "fault",
+      "length": "3.003975593"
+     },
+     {
+      "type": "fault",
+      "length": "6.071361767"
+     },
+     {
+      "type": "fault",
+      "length": "1.009519791"
+     },
+     {
+      "type": "fault",
+      "length": "1.064358261"
+     },
+     {
+      "type": "fault",
+      "length": "1.056153411"
+     },
+     {
+      "type": "fault",
+      "length": "0.610602791"
+     },
+     {
+      "type": "fault",
+      "length": "6.129801643"
+     },
+     {
+      "type": "fault",
+      "length": "1.009714521"
+     },
+     {
+      "type": "fault",
+      "length": "1.879929139"
+     },
+     {
+      "type": "fault",
+      "length": "0.842725788"
+     },
+     {
+      "type": "fault",
+      "length": "1.731115268"
+     },
+     {
+      "type": "fault",
+      "length": "1.13494278"
+     },
+     {
+      "type": "fault",
+      "length": "5.741988933"
+     },
+     {
+      "type": "fault",
+      "length": "6.624580029"
+     },
+     {
+      "type": "fault",
+      "length": "6.091165669"
+     },
+     {
+      "type": "fault",
+      "length": "3.30511808"
+     },
+     {
+      "type": "fault",
+      "length": "1.118537391"
+     },
+     {
+      "type": "fault",
+      "length": "1.107829035"
+     },
+     {
+      "type": "fault",
+      "length": "2.198540082"
+     },
+     {
+      "type": "fault",
+      "length": "2.927814856"
+     },
+     {
+      "type": "fault",
+      "length": "8.297234776"
+     },
+     {
+      "type": "fault",
+      "length": "2.172721605"
+     },
+     {
+      "type": "fault",
+      "length": "0.425650968"
+     },
+     {
+      "type": "fault",
+      "length": "0.925359861"
+     },
+     {
+      "type": "fault",
+      "length": "0.789362842"
+     },
+     {
+      "type": "fault",
+      "length": "0.975185592"
+     },
+     {
+      "type": "fault",
+      "length": "0.65638635"
+     },
+     {
+      "type": "fault",
+      "length": "0.825562865"
+     },
+     {
+      "type": "fault",
+      "length": "1.234844853"
+     },
+     {
+      "type": "fault",
+      "length": "0.394043378"
+     },
+     {
+      "type": "fault",
+      "length": "1.08357224"
+     },
+     {
+      "type": "fault",
+      "length": "0.86958057"
+     },
+     {
+      "type": "fault",
+      "length": "1.862295226"
+     },
+     {
+      "type": "fault",
+      "length": "4.083281965"
+     },
+     {
+      "type": "fault",
+      "length": "3.181636004"
+     },
+     {
+      "type": "fault",
+      "length": "10.48248471"
+     },
+     {
+      "type": "hidden",
+      "length": "5.01885657"
+     },
+     {
+      "type": "hidden",
+      "length": "0.620344"
+     },
+     {
+      "type": "hidden",
+      "length": "0.877595952"
+     },
+     {
+      "type": "hidden",
+      "length": "1.247762742"
+     },
+     {
+      "type": "hidden",
+      "length": "8.887945166"
+     },
+     {
+      "type": "hidden",
+      "length": "1.327715095"
+     },
+     {
+      "type": "hidden",
+      "length": "2.032697139"
+     },
+     {
+      "type": "hidden",
+      "length": "10.705675592"
+     },
+     {
+      "type": "hidden",
+      "length": "3.098912596"
+     },
+     {
+      "type": "hidden",
+      "length": "5.525483964"
+     },
+     {
+      "type": "hidden",
+      "length": "5.564904062"
+     },
+     {
+      "type": "hidden",
+      "length": "0.675461474"
+     },
+     {
+      "type": "hidden",
+      "length": "5.64711321"
+     },
+     {
+      "type": "hidden",
+      "length": "5.569361952"
+     },
+     {
+      "type": "hidden",
+      "length": "9.952131213"
+     },
+     {
+      "type": "hidden",
+      "length": "15.624565165"
+     },
+     {
+      "type": "hidden",
+      "length": "3.5770744"
+     },
+     {
+      "type": "hidden",
+      "length": "3.079080859"
+     },
+     {
+      "type": "hidden",
+      "length": "11.518018761"
+     },
+     {
+      "type": "hidden",
+      "length": "2.501268315"
+     },
+     {
+      "type": "hidden",
+      "length": "2.553819407"
+     },
+     {
+      "type": "hidden",
+      "length": "1.627298142"
+     },
+     {
+      "type": "hidden",
+      "length": "3.753275247"
+     },
+     {
+      "type": "hidden",
+      "length": "3.778217309"
+     },
+     {
+      "type": "hidden",
+      "length": "1.789639142"
+     },
+     {
+      "type": "hidden",
+      "length": "2.833682909"
+     },
+     {
+      "type": "hidden",
+      "length": "5.405996362"
+     },
+     {
+      "type": "hidden",
+      "length": "8.567006038"
+     },
+     {
+      "type": "hidden",
+      "length": "1.963107538"
+     },
+     {
+      "type": "hidden",
+      "length": "0.659537618"
+     },
+     {
+      "type": "hidden",
+      "length": "0.87614214"
+     },
+     {
+      "type": "hidden",
+      "length": "6.258560188"
+     },
+     {
+      "type": "hidden",
+      "length": "5.781442092"
+     },
+     {
+      "type": "hidden",
+      "length": "2.912315675"
+     },
+     {
+      "type": "hidden",
+      "length": "3.02150272"
+     },
+     {
+      "type": "hidden",
+      "length": "2.881046712"
+     },
+     {
+      "type": "hidden",
+      "length": "1.581677293"
+     },
+     {
+      "type": "hidden",
+      "length": "0.751128224"
+     },
+     {
+      "type": "hidden",
+      "length": "1.454033266"
+     },
+     {
+      "type": "hidden",
+      "length": "2.548944076"
+     },
+     {
+      "type": "hidden",
+      "length": "5.139894598"
+     },
+     {
+      "type": "hidden",
+      "length": "4.656088825"
+     },
+     {
+      "type": "hidden",
+      "length": "0.572106506"
+     },
+     {
+      "type": "hidden",
+      "length": "0.72993348"
+     },
+     {
+      "type": "hidden",
+      "length": "4.314221389"
+     },
+     {
+      "type": "hidden",
+      "length": "0.958184949"
+     },
+     {
+      "type": "hidden",
+      "length": "8.585454895"
+     },
+     {
+      "type": "hidden",
+      "length": "4.72602612"
+     },
+     {
+      "type": "hidden",
+      "length": "0.679735793"
+     },
+     {
+      "type": "hidden",
+      "length": "0.455556912"
+     },
+     {
+      "type": "hidden",
+      "length": "1.710889848"
+     },
+     {
+      "type": "hidden",
+      "length": "3.399412484"
+     },
+     {
+      "type": "hidden",
+      "length": "1.103274979"
+     },
+     {
+      "type": "hidden",
+      "length": "4.830644475"
+     },
+     {
+      "type": "hidden",
+      "length": "4.108471177"
+     },
+     {
+      "type": "hidden",
+      "length": "2.982621052"
+     },
+     {
+      "type": "hidden",
+      "length": "1.32279157"
+     },
+     {
+      "type": "hidden",
+      "length": "3.591110609"
+     },
+     {
+      "type": "hidden",
+      "length": "4.753339183"
+     },
+     {
+      "type": "hidden",
+      "length": "0.997229805"
+     },
+     {
+      "type": "hidden",
+      "length": "0.650316361"
+     },
+     {
+      "type": "hidden",
+      "length": "1.591564209"
+     },
+     {
+      "type": "hidden",
+      "length": "2.410900399"
+     },
+     {
+      "type": "hidden",
+      "length": "6.193381047"
+     },
+     {
+      "type": "hidden",
+      "length": "7.144170265"
+     },
+     {
+      "type": "hidden",
+      "length": "1.116005631"
+     },
+     {
+      "type": "hidden",
+      "length": "2.069876459"
+     },
+     {
+      "type": "hidden",
+      "length": "0.852518977"
+     },
+     {
+      "type": "hidden",
+      "length": "1.131536342"
+     },
+     {
+      "type": "hidden",
+      "length": "0.868929671"
+     },
+     {
+      "type": "hidden",
+      "length": "1.027848832"
+     },
+     {
+      "type": "hidden",
+      "length": "1.56890172"
+     },
+     {
+      "type": "hidden",
+      "length": "1.003509682"
+     },
+     {
+      "type": "hidden",
+      "length": "4.093722688"
+     },
+     {
+      "type": "hidden",
+      "length": "5.355285098"
+     },
+     {
+      "type": "hidden",
+      "length": "4.438472874"
+     },
+     {
+      "type": "hidden",
+      "length": "1.312772613"
+     },
+     {
+      "type": "hidden",
+      "length": "1.825659103"
+     },
+     {
+      "type": "hidden",
+      "length": "2.021747742"
+     },
+     {
+      "type": "hidden",
+      "length": "1.521160046"
+     },
+     {
+      "type": "hidden",
+      "length": "0.998094475"
+     },
+     {
+      "type": "hidden",
+      "length": "1.870191314"
+     },
+     {
+      "type": "hidden",
+      "length": "1.109512578"
+     },
+     {
+      "type": "hidden",
+      "length": "10.958013379"
+     },
+     {
+      "type": "hidden",
+      "length": "5.649617837"
+     },
+     {
+      "type": "hidden",
+      "length": "2.092578369"
+     },
+     {
+      "type": "hidden",
+      "length": "4.71605396"
+     },
+     {
+      "type": "hidden",
+      "length": "2.217791712"
+     },
+     {
+      "type": "hidden",
+      "length": "1.954236553"
+     },
+     {
+      "type": "hidden",
+      "length": "1.001860551"
+     },
+     {
+      "type": "hidden",
+      "length": "4.090057114"
+     },
+     {
+      "type": "hidden",
+      "length": "0.852799249"
+     },
+     {
+      "type": "hidden",
+      "length": "0.442845754"
+     },
+     {
+      "type": "hidden",
+      "length": "0.909404303"
+     },
+     {
+      "type": "hidden",
+      "length": "0.690456674"
+     },
+     {
+      "type": "hidden",
+      "length": "1.335093369"
+     },
+     {
+      "type": "hidden",
+      "length": "9.750042982"
+     },
+     {
+      "type": "hidden",
+      "length": "4.077641604"
+     },
+     {
+      "type": "hidden",
+      "length": "0.493928473"
+     },
+     {
+      "type": "hidden",
+      "length": "1.62957333"
+     },
+     {
+      "type": "hidden",
+      "length": "0.581958921"
+     },
+     {
+      "type": "hidden",
+      "length": "1.383889308"
+     },
+     {
+      "type": "hidden",
+      "length": "7.928924312"
+     },
+     {
+      "type": "hidden",
+      "length": "0.853555554"
+     },
+     {
+      "type": "hidden",
+      "length": "0.851292"
+     },
+     {
+      "type": "thrust",
+      "length": "5.570696851"
+     },
+     {
+      "type": "thrust",
+      "length": "6.819980584"
+     },
+     {
+      "type": "thrust",
+      "length": "3.335034836"
+     },
+     {
+      "type": "thrust",
+      "length": "22.055094781"
+     },
+     {
+      "type": "thrust",
+      "length": "11.281528068"
+     },
+     {
+      "type": "thrust",
+      "length": "0.623782381"
+     },
+     {
+      "type": "thrust",
+      "length": "0.972766924"
+     },
+     {
+      "type": "thrust",
+      "length": "0.782108897"
+     },
+     {
+      "type": "thrust",
+      "length": "3.657643409"
+     },
+     {
+      "type": "thrust",
+      "length": "1.904959751"
+     },
+     {
+      "type": "thrust",
+      "length": "12.923930761"
+     },
+     {
+      "type": "thrust",
+      "length": "4.381835562"
+     },
+     {
+      "type": "thrust",
+      "length": "4.158852316"
+     },
+     {
+      "type": "thrust",
+      "length": "5.421239713"
+     },
+     {
+      "type": "thrust",
+      "length": "6.469412391"
+     },
+     {
+      "type": "thrust",
+      "length": "15.271557908"
+     },
+     {
+      "type": "thrust",
+      "length": "12.438205"
+     },
+     {
+      "type": "thrust",
+      "length": "3.61047173"
+     },
+     {
+      "type": "thrust",
+      "length": "6.740288888"
+     },
+     {
+      "type": "thrust",
+      "length": "10.061695242"
+     },
+     {
+      "type": "thrust",
+      "length": "2.047755284"
+     },
+     {
+      "type": "thrust",
+      "length": "20.226901917"
+     },
+     {
+      "type": "thrust",
+      "length": "8.20891688"
+     },
+     {
+      "type": "thrust",
+      "length": "17.55789401"
+     },
+     {
+      "type": "thrust",
+      "length": "12.514052272"
+     },
+     {
+      "type": "thrust",
+      "length": "16.305939611"
+     },
+     {
+      "type": "thrust",
+      "length": "3.618753965"
+     }
+    ]
+    }

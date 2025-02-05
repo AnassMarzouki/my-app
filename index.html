@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="module" src="./main.js"></script>
+
+    <script src="./libs/layerswitcher/ol-ext.min.js"></script>
+    <script src="./libs/layerswitcher/ol-ext.js"></script>
+
+    <script src="./libs/openlayers/ol.js"></script>
+    <link rel="stylesheet" href="./libs/openlayers/ol.css">
+    
+    <link rel="stylesheet" href="./libs/layerswitcher/ol-ext.min.css">
+    <link rel="stylesheet" href="./style.css">
+    
+
+    <title>Figuig WebGeoMap</title>
+  </head>
+  <body>
+    <div id="global-container">
+      <div id="map">
+      </div>
+
+      <div class="left-side-panel">
+        <div id="query-side">
+          <select id="layers-select">
+            <option value="">Select layer</option>
+            <option value="lithology-select">Lithology</option>
+            <option value="structural-select">Structural</option>
+          </select>
+
+          <select id="feature-select">
+            <option>Select feature</option>
+          </select>
+
+          <select id="operator-select">
+            <option>Select operator</option>
+          </select>
+
+          <select id="attribute-select">
+            <option>Select attribute</option>
+          </select>
+
+          <div id="length-field"></div>
+          <div id="query-div">
+            <button id="query-btn" class="query-button">Query</button>
+            <button id="reset-btn" class="reset-button">Reset</button>
+          </div>
+        </div>
+
+
+        <div id="legend-container">
+          <p>Legend</p>
+        </div>
+      </div>
+
+    <div id="popup"></div>
+
+    
+
+    
+  </body>
+</html>
